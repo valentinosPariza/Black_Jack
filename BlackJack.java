@@ -4,8 +4,8 @@
 	*  Last updated: 30/10/2017
 	*
 	*  Compilation from source directory
-	*  Compilation: javac -cp stdlib.jar vpariz01_erg2.java
-	*  Execution: java -cp .:stdlib.jar vpariz01_erg2
+	*  Compilation: javac -cp stdlib.jar BlackJack.java
+	*  Execution: java -cp .:stdlib.jar BlackJack
 	* 
     *  
 	* 
@@ -26,7 +26,8 @@
 	*/
 
 
-public class vpariz01_erg2 {
+
+public class BlackJack {
 	
 public	static final int INITIAL_NUMBER_OF_CARDS=4;  //  constant which represents the starting cards which are given 
 													 //  two for player and two for the dealer
