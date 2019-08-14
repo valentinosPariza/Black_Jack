@@ -1,2 +1,2 @@
 # Black_Jack
-A Black Jack Simple game.
+A Black Jack simple game.
